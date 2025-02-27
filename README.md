@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dentalcow
 - 👀 I’m interested in web development, game development, lighting design, audio gear and 3d design/rendering.
-- 🌱 I’m currently learning C++, Unity, QLC+, GrandMA3, Unreal Engine for virtual production, and IOT development.
+- 🌱 I’m currently learning C++, Unity, QLC+, Blinderkitten, GrandMA3, Unreal Engine for virtual production, and IOT development.
 - 💞️ I’m looking to collaborate on games, stuff that I can learn from.
 
 <!---
